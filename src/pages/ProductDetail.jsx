@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import InquiryForm from "../components/InquiryForm";
 //import { InquiryForm } from "./components/InquiryForm";
-import "../app.css";
+import "../App.css";
 const PropertyDetail = () => {
   const { id } = useParams();
   const [property, setProperty] = useState(null);

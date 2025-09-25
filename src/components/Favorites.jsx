@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 //import { PropertyCard } from "./Components/PropertyCard";
 //import { PropertyCard } from "./PropertyCard";
-import "../app.css";
+import "../App.css";
 
 import { Link } from "react-router-dom";
 import { PropertyCard } from "./components/PropertyCard";

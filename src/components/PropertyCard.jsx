@@ -1,6 +1,6 @@
 // src/components/PropertyCard.jsx
 import { Link } from "react-router-dom";
-import "../app.css";
+import "../App.css";
 import Favorites from "../pages/Favorites";
 export function PropertyCard({ property, showRemove, onRemove }) {
   const addToFavorites = () => {

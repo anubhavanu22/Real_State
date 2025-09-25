@@ -1,8 +1,8 @@
 // src/pages/Favorites.jsx
 import { useEffect, useState } from "react";
-import { PropertyCard } from "../Components/PropertyCard";
+import { PropertyCard } from "../components/PropertyCard";
 //import { PropertyCard } from "./components/PropertyCard";
-import "../app.css";
+import "../App.css";
 const Favorites = () => {
   const [favorites, setFavorites] = useState([]);
 

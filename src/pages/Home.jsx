@@ -1,7 +1,7 @@
 // src/pages/Home.jsx
 import { useEffect, useState } from "react";
 import { PropertyCard } from "../components/PropertyCard";
-import "../app.css";
+import "../App.css";
 //import { PropertyCard } from "./components/PropertyCard";
 
 const Home = () => {

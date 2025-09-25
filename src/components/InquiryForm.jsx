@@ -1,7 +1,7 @@
 
 // src/components/InquiryForm.jsx
 import { useState } from "react";
-import "../app.css";
+import "../App.css";
  function InquiryForm({ propertyTitle }) {
   const [formData, setFormData] = useState({
     name: "",
