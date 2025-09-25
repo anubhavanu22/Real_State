@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real Estate Property Listing 
 
 ## Overview
@@ -51,3 +52,6 @@ The platform emphasizes **mobile-first design**, smooth interactions, and a user
 - **Optional:** localStorage for favorites persistence
 
 ---
+=======
+# Real_State
+>>>>>>> 4f49e74f1df3f44916c4acadc06353a77ed5f8e7
