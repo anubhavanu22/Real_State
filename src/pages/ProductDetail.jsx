@@ -1,7 +1,7 @@
 // src/pages/PropertyDetail.jsx
 import { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
-import InquiryForm from "../Components/InquiryForm";
+import InquiryForm from "../components/InquiryForm";
 //import { InquiryForm } from "./components/InquiryForm";
 import "../app.css";
 const PropertyDetail = () => {

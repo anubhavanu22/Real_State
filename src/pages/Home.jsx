@@ -1,6 +1,6 @@
 // src/pages/Home.jsx
 import { useEffect, useState } from "react";
-import { PropertyCard } from "../Components/PropertyCard";
+import { PropertyCard } from "../components/PropertyCard";
 import "../app.css";
 //import { PropertyCard } from "./components/PropertyCard";
 
