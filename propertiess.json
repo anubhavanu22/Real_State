@@ -1,0 +1,544 @@
+{
+  "properties": {
+    "p1": {
+      "id": 1,
+      "title": "Downtown Loft in Chanakyapuri",
+      "type": "House",
+      "price": 20863487,
+      "location": "Chanakyapuri, Delhi",
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "area": 4978,
+      "amenities": ["Terrace", "Clubhouse"],
+      "images": [
+        "https://housing-images.n7net.in/01c16c28/36655fa3b8cee75e2e774f97d31fadd4/v0/medium/4_bhk_independent_builder_floor-for-sale-chanakyapuri_new_delhi-New+Delhi-others.jpg",
+        "https://housing-images.n7net.in/01c16c28/36655fa3b8cee75e2e774f97d31fadd4/v0/medium/4_bhk_independent_builder_floor-for-sale-chanakyapuri_new_delhi-New+Delhi-others.jpg"
+      ],
+      "coordinates": { "lat": 18.5035, "lng": 76.0432 },
+      "agent": { "name": "Vikram Singh", "phone": "+91-9012345678", "email": "vikram@example.com" },
+      "description": "5BHK house in Chanakyapuri, Delhi with modern amenities and great surroundings."
+    },
+    "p2": {
+      "id": 2,
+      "title": "Cozy Bungalow in Chanakyapuri",
+      "type": "Villa",
+      "price": 22801375,
+      "location": "Chanakyapuri, Delhi",
+      "bedrooms": 5,
+      "bathrooms": 1,
+      "area": 3015,
+      "amenities": ["Terrace", "Clubhouse"],
+      "images": [
+        "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202211/indian_property_1-sixteen_nine.jpg?size=948:533",
+        "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202211/indian_property_1-sixteen_nine.jpg?size=948:533"
+      ],
+      "coordinates": { "lat": 18.7645, "lng": 72.8831 },
+      "agent": { "name": "Priya Sharma", "phone": "+91-9876543210", "email": "priya@example.com" },
+      "description": "5BHK villa in Chanakyapuri, Delhi with modern amenities and great surroundings."
+    },
+    "p3": {
+      "id": 3,
+      "title": "Penthouse Suite in Kothrud",
+      "type": "Apartment",
+      "price": 20696841,
+      "location": "Kothrud, Pune",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 2968,
+      "amenities": ["Garden", "Car Garage"],
+      "images": [
+        "https://sbnri.com/blog/wp-content/uploads/2021/07/NRI-Property-In-India.jpg",
+        "https://sbnri.com/blog/wp-content/uploads/2021/07/NRI-Property-In-India.jpg"
+      ],
+      "coordinates": { "lat": 24.6809, "lng": 75.6364 },
+      "agent": { "name": "Vikram Singh", "phone": "+91-9012345678", "email": "vikram@example.com" },
+      "description": "3BHK apartment in Kothrud, Pune with modern amenities and great surroundings."
+    },
+    "p4": {
+      "id": 4,
+      "title": "Urban Studio in Salt Lake",
+      "type": "Office",
+      "price": 13024976,
+      "location": "Salt Lake, Kolkata",
+      "bedrooms": 0,
+      "bathrooms": 4,
+      "area": 2401,
+      "amenities": ["Security", "Elevator"],
+      "images": [
+        "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800",
+        "https://images.unsplash.com/photo-1581091215367-4827be43ca19?w=800"
+      ],
+      "coordinates": { "lat": 24.8777, "lng": 73.1637 },
+      "agent": { "name": "Priya Sharma", "phone": "+91-9876543210", "email": "priya@example.com" },
+      "description": "0BHK office in Salt Lake, Kolkata with modern amenities and great surroundings."
+    },
+    "p5": {
+      "id": 5,
+      "title": "Elegant Mansion in Calangute",
+      "type": "Villa",
+      "price": 25858643,
+      "location": "Calangute, Goa",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 1593,
+      "amenities": ["Pool", "Gym"],
+      "images": [
+        "https://akm-img-a-in.tosshub.com/businesstoday/images/story/201309/realestate2_660_092713044047.jpg",
+        "https://akm-img-a-in.tosshub.com/businesstoday/images/story/201309/realestate2_660_092713044047.jpg"
+      ],
+      "coordinates": { "lat": 21.5758, "lng": 72.9213 },
+      "agent": { "name": "Priya Sharma", "phone": "+91-9876543210", "email": "priya@example.com" },
+      "description": "4BHK villa in Calangute, Goa with modern amenities and great surroundings."
+    },
+    "p6": {
+      "id": 6,
+      "title": "Downtown Loft in Gachibowli",
+      "type": "House",
+      "price": 7362764,
+      "location": "Gachibowli, Hyderabad",
+      "bedrooms": 1,
+      "bathrooms": 4,
+      "area": 3001,
+      "amenities": ["Gym", "Swimming Pool", "Parking"],
+      "images": [
+        "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800",
+        "https://images.unsplash.com/photo-1560448204-a2fa11ce2347?w=800"
+      ],
+      "coordinates": { "lat": 20.3947, "lng": 73.9461 },
+      "agent": { "name": "Sunita Kohli", "phone": "+91-9765432109", "email": "sunita@example.com" },
+      "description": "1BHK house in Gachibowli, Hyderabad with modern amenities and great surroundings."
+    },
+    "p7": {
+      "id": 7,
+      "title": "Elegant Mansion in Salt Lake",
+      "type": "Villa",
+      "price": 5374389,
+      "location": "Salt Lake, Kolkata",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": 2940,
+      "amenities": ["Garden", "Car Garage"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQItNmLE2nm2NYAEh3VNSH00cwCD6UkIR3fXQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQItNmLE2nm2NYAEh3VNSH00cwCD6UkIR3fXQ&s"
+      ],
+      "coordinates": { "lat": 20.9466, "lng": 72.9891 },
+      "agent": { "name": "Sunita Kohli", "phone": "+91-9765432109", "email": "sunita@example.com" },
+      "description": "1BHK villa in Salt Lake, Kolkata with modern amenities and great surroundings."
+    },
+    "p8": {
+      "id": 8,
+      "title": "Modern Apartment in Bandra West",
+      "type": "Villa",
+      "price": 23424572,
+      "location": "Bandra West, Mumbai",
+      "bedrooms": 2,
+      "bathrooms": 4,
+      "area": 4734,
+      "amenities": ["Terrace", "Clubhouse"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFlZo727G2zM_cq9fG5PcVHs4tyclyog_IaA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFlZo727G2zM_cq9fG5PcVHs4tyclyog_IaA&s"
+      ],
+      "coordinates": { "lat": 13.0786, "lng": 74.2466 },
+      "agent": { "name": "Anita Desai", "phone": "+91-9988776655", "email": "anita@example.com" },
+      "description": "2BHK villa in Bandra West, Mumbai with modern amenities and great surroundings."
+    },
+    "p9": {
+      "id": 9,
+      "title": "Cozy Bungalow in Whitefield",
+      "type": "Office",
+      "price": 23933395,
+      "location": "Whitefield, Bengaluru",
+      "bedrooms": 0,
+      "bathrooms": 2,
+      "area": 1184,
+      "amenities": ["Garden", "Car Garage"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_LiX-RkysKYPfHuiMuru1wtEE8QuFTn0Yiw&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_LiX-RkysKYPfHuiMuru1wtEE8QuFTn0Yiw&s"
+      ],
+      "coordinates": { "lat": 14.4615, "lng": 75.446 },
+      "agent": { "name": "Anita Desai", "phone": "+91-9988776655", "email": "anita@example.com" },
+      "description": "0BHK office in Whitefield, Bengaluru with modern amenities and great surroundings."
+    },
+    "p10": {
+      "id": 10,
+      "title": "Downtown Loft in Salt Lake",
+      "type": "House",
+      "price": 20863487,
+      "location": "Salt Lake, Kolkata",
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "area": 4978,
+      "amenities": ["Terrace", "Clubhouse"],
+      "images": [
+        "https://teja12.kuikr.com/is/a/c/655x525/gallery_images/original/cf5ca32dc7c18eb.gif",
+        "https://teja12.kuikr.com/is/a/c/655x525/gallery_images/original/cf5ca32dc7c18eb.gif"
+      ],
+      "coordinates": { "lat": 18.5035, "lng": 76.0432 },
+      "agent": { "name": "Vikram Singh", "phone": "+91-9012345678", "email": "vikram@example.com" },
+      "description": "5BHK house in Salt Lake, Kolkata with modern amenities and great surroundings."
+    },
+    "p11": {
+      "id": 11,
+      "title": "Luxury Villa in Banjara Hills",
+      "type": "Villa",
+      "price": 27863487,
+      "location": "Banjara Hills, Hyderabad",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 4500,
+      "amenities": ["Pool", "Gym", "Garden"],
+      "images": [
+        "https://www.arvindsmartspaces.com/wp-content/uploads/2022/01/Artboard-1.jpg",
+        "https://www.arvindsmartspaces.com/wp-content/uploads/2022/01/Artboard-1.jpg"
+      ],
+      "coordinates": { "lat": 17.4323, "lng": 78.4561 },
+      "agent": { "name": "Rohit Verma", "phone": "+91-9123456780", "email": "rohit@example.com" },
+      "description": "4BHK villa in Banjara Hills, Hyderabad with pool and modern amenities."
+    },
+    "p12": {
+      "id": 12,
+      "title": "Modern Apartment in Andheri West",
+      "type": "Apartment",
+      "price": 19863487,
+      "location": "Andheri West, Mumbai",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 2800,
+      "amenities": ["Parking", "Gym"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCneQZOER6juUwx45rv6fKvsVHysSd1zDoww&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCneQZOER6juUwx45rv6fKvsVHysSd1zDoww&s"
+      ],
+      "coordinates": { "lat": 19.1196, "lng": 72.8479 },
+      "agent": { "name": "Anita Desai", "phone": "+91-9988776655", "email": "anita@example.com" },
+      "description": "3BHK apartment in Andheri West, Mumbai with parking and modern amenities."
+    },
+    "p13": {
+      "id": 13,
+      "title": "Cozy Bungalow in Whitefield",
+      "type": "Villa",
+      "price": 17863487,
+      "location": "Whitefield, Bengaluru",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 3200,
+      "amenities": ["Garden", "Clubhouse"],
+      "images": [
+        "https://cdn.britannica.com/05/157305-004-53D5D212.jpg",
+        "https://cdn.britannica.com/05/157305-004-53D5D212.jpg"
+      ],
+      "coordinates": { "lat": 12.9716, "lng": 77.6413 },
+      "agent": { "name": "Sunita Kohli", "phone": "+91-9765432109", "email": "sunita@example.com" },
+      "description": "3BHK villa in Whitefield, Bengaluru with garden and modern amenities."
+    },
+    "p14": {
+      "id": 14,
+      "title": "Downtown Loft in Connaught Place",
+      "type": "House",
+      "price": 20863487,
+      "location": "Connaught Place, Delhi",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 4000,
+      "amenities": ["Terrace", "Security"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJs91i3a6u-nQHk7Ef5Vl8YZYUmKWPDw5cSg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJs91i3a6u-nQHk7Ef5Vl8YZYUmKWPDw5cSg&s"
+      ],
+      "coordinates": { "lat": 28.6327, "lng": 77.2197 },
+      "agent": { "name": "Vikram Singh", "phone": "+91-9012345678", "email": "vikram@example.com" },
+      "description": "4BHK house in Connaught Place, Delhi with terrace and modern amenities."
+    },
+    "p15": {
+      "id": 15,
+      "title": "Urban Studio in HSR Layout",
+      "type": "Office",
+      "price": 13024976,
+      "location": "HSR Layout, Bengaluru",
+      "bedrooms": 0,
+      "bathrooms": 2,
+      "area": 2200,
+      "amenities": ["Elevator", "Security"],
+      "images": [
+        "https://goldendreamproperty.com/wp-content/uploads/2024/10/residential-property.jpg",
+        "https://goldendreamproperty.com/wp-content/uploads/2024/10/residential-property.jpg"
+      ],
+      "coordinates": { "lat": 12.9141, "lng": 77.6362 },
+      "agent": { "name": "Priya Sharma", "phone": "+91-9876543210", "email": "priya@example.com" },
+      "description": "0BHK office in HSR Layout, Bengaluru with security and modern facilities."
+    },
+    "p16": {
+      "id": 16,
+      "title": "Elegant Mansion in Juhu",
+      "type": "Villa",
+      "price": 25858643,
+      "location": "Juhu, Mumbai",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 4800,
+      "amenities": ["Pool", "Gym", "Terrace"],
+      "images": [
+        "https://www.hcorealestates.com/_next/image?url=https%3A%2F%2Fwww.images.hcorealestates.com%2Fimg%2Fpropertyimage%2Ftata-value-homes-noida_Listing-image.webp&w=750&q=75",
+        "https://www.hcorealestates.com/_next/image?url=https%3A%2F%2Fwww.images.hcorealestates.com%2Fimg%2Fpropertyimage%2Ftata-value-homes-noida_Listing-image.webp&w=750&q=75"
+      ],
+      "coordinates": { "lat": 19.0982, "lng": 72.8265 },
+      "agent": { "name": "Anita Desai", "phone": "+91-9988776655", "email": "anita@example.com" },
+      "description": "5BHK villa in Juhu, Mumbai with pool, gym, and terrace."
+    },
+    "p17": {
+      "id": 17,
+      "title": "Modern Apartment in Koregaon Park",
+      "type": "Apartment",
+      "price": 20696841,
+      "location": "Koregaon Park, Pune",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 3000,
+      "amenities": ["Parking", "Gym", "Security"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrKDiZVay4YAtWIu8P_gsyJ6dP5h-X2fCBTA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrKDiZVay4YAtWIu8P_gsyJ6dP5h-X2fCBTA&s"
+      ],
+      "coordinates": { "lat": 18.5317, "lng": 73.8870 },
+      "agent": { "name": "Rohit Verma", "phone": "+91-9123456780", "email": "rohit@example.com" },
+      "description": "3BHK apartment in Koregaon Park, Pune with parking and modern amenities."
+    },
+    "p18": {
+      "id": 18,
+      "title": "Cozy Bungalow in Andheri East",
+      "type": "Villa",
+      "price": 17863487,
+      "location": "Andheri East, Mumbai",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 2800,
+      "amenities": ["Garden", "Parking"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAgZiCuPuxMBjAPo__uWVM6ViyVjWzBhGlA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAgZiCuPuxMBjAPo__uWVM6ViyVjWzBhGlA&s"
+      ],
+      "coordinates": { "lat": 19.1204, "lng": 72.8479 },
+      "agent": { "name": "Sunita Kohli", "phone": "+91-9765432109", "email": "sunita@example.com" },
+      "description": "2BHK villa in Andheri East, Mumbai with garden and parking."
+    },
+    "p19": {
+      "id": 19,
+      "title": "Downtown Loft in BTM Layout",
+      "type": "House",
+      "price": 20863487,
+      "location": "BTM Layout, Bengaluru",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 3500,
+      "amenities": ["Terrace", "Security"],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dubai_Marina_Skyline.jpg/1200px-Dubai_Marina_Skyline.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dubai_Marina_Skyline.jpg/1200px-Dubai_Marina_Skyline.jpg"
+      ],
+      "coordinates": { "lat": 12.9250, "lng": 77.5938 },
+      "agent": { "name": "Priya Sharma", "phone": "+91-9876543210", "email": "priya@example.com" },
+      "description": "3BHK house in BTM Layout, Bengaluru with terrace and security."
+    },
+    "p20": {
+      "id": 20,
+      "title": "Urban Studio in MG Road",
+      "type": "Office",
+      "price": 13024976,
+      "location": "MG Road, Pune",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "area": 2000,
+      "amenities": ["Elevator", "Security"],
+      "images": [
+        "https://media.istockphoto.com/id/2175973016/photo/modern-luxury-home-exterior-at-sunset.jpg?s=612x612&w=0&k=20&c=6D40lfnRxmyM3kW3BOIK45fEA7K2p9uvOOcCTufwJvw=",
+        "https://media.istockphoto.com/id/2175973016/photo/modern-luxury-home-exterior-at-sunset.jpg?s=612x612&w=0&k=20&c=6D40lfnRxmyM3kW3BOIK45fEA7K2p9uvOOcCTufwJvw="
+      ],
+      "coordinates": { "lat": 18.5196, "lng": 73.8553 },
+      "agent": { "name": "Rohit Verma", "phone": "+91-9123456780", "email": "rohit@example.com" },
+      "description": "0BHK office in MG Road, Pune with elevator and security."
+    },
+     "p21": {
+      "id": 21,
+      "title": "Luxury Villa in Indiranagar",
+      "type": "Villa",
+      "price": 28863487,
+      "location": "Indiranagar, Bengaluru",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 4600,
+      "amenities": ["Pool", "Gym", "Garden"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK7dSEmWDY4NO_NVlGIZun17lbC9VQisG4nA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK7dSEmWDY4NO_NVlGIZun17lbC9VQisG4nA&s"
+      ],
+      "coordinates": { "lat": 12.9719, "lng": 77.6412 },
+      "agent": { "name": "Anita Desai", "phone": "+91-9988776655", "email": "anita@example.com" },
+      "description": "4BHK villa in Indiranagar, Bengaluru with pool, gym, and garden."
+    },
+    "p22": {
+      "id": 22,
+      "title": "Modern Apartment in Powai",
+      "type": "Apartment",
+      "price": 19863487,
+      "location": "Powai, Mumbai",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 2900,
+      "amenities": ["Parking", "Gym", "Security"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpcFP50xWh7kcW0Z-Z_IQ988EE6lIaoqwxA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpcFP50xWh7kcW0Z-Z_IQ988EE6lIaoqwxA&s"
+      ],
+      "coordinates": { "lat": 19.1190, "lng": 72.9095 },
+      "agent": { "name": "Vikram Singh", "phone": "+91-9012345678", "email": "vikram@example.com" },
+      "description": "3BHK apartment in Powai, Mumbai with parking, gym, and security."
+    },
+    "p23": {
+      "id": 23,
+      "title": "Cozy Bungalow in Sarjapur",
+      "type": "Villa",
+      "price": 17863487,
+      "location": "Sarjapur, Bengaluru",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 3300,
+      "amenities": ["Garden", "Clubhouse"],
+      "images": [
+        "https://pbs.twimg.com/media/E_thyrxXsAEZjDf.jpg",
+        "https://pbs.twimg.com/media/E_thyrxXsAEZjDf.jpg"
+      ],
+      "coordinates": { "lat": 12.9081, "lng": 77.6476 },
+      "agent": { "name": "Sunita Kohli", "phone": "+91-9765432109", "email": "sunita@example.com" },
+      "description": "3BHK bungalow in Sarjapur, Bengaluru with garden and clubhouse."
+    },
+    "p24": {
+      "id": 24,
+      "title": "Downtown Loft in Bandra West",
+      "type": "House",
+      "price": 20863487,
+      "location": "Bandra West, Mumbai",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 4200,
+      "amenities": ["Terrace", "Security"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjn7mbWlHkzGfpy2lawCw1ugkHUo364wFJNg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjn7mbWlHkzGfpy2lawCw1ugkHUo364wFJNg&s"
+      ],
+      "coordinates": { "lat": 19.0596, "lng": 72.8297 },
+      "agent": { "name": "Priya Sharma", "phone": "+91-9876543210", "email": "priya@example.com" },
+      "description": "4BHK house in Bandra West, Mumbai with terrace and security."
+    },
+    "p25": {
+      "id": 25,
+      "title": "Urban Studio in Hitech City",
+      "type": "Office",
+      "price": 13024976,
+      "location": "Hitech City, Hyderabad",
+      "bedrooms": 0,
+      "bathrooms": 2,
+      "area": 2200,
+      "amenities": ["Elevator", "Security"],
+      "images": [
+        "https://www.financialexpress.com/wp-content/uploads/2023/05/real-estate-bangalore.jpg?w=440",
+        "https://www.financialexpress.com/wp-content/uploads/2023/05/real-estate-bangalore.jpg?w=440"
+      ],
+      "coordinates": { "lat": 17.4450, "lng": 78.3751 },
+      "agent": { "name": "Rohit Verma", "phone": "+91-9123456780", "email": "rohit@example.com" },
+      "description": "0BHK office in Hitech City, Hyderabad with elevator and security."
+    },
+    "p26": {
+      "id": 26,
+      "title": "Luxury Villa in Marine Drive",
+      "type": "Villa",
+      "price": 25863487,
+      "location": "Marine Drive, Mumbai",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 4900,
+      "amenities": ["Pool", "Gym", "Terrace"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCwc_jUaCS5m2x55x0yW4ORtoDEuWWHwzSg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCwc_jUaCS5m2x55x0yW4ORtoDEuWWHwzSg&s"
+      ],
+      "coordinates": { "lat": 18.9436, "lng": 72.8234 },
+      "agent": { "name": "Anita Desai", "phone": "+91-9988776655", "email": "anita@example.com" },
+      "description": "5BHK villa in Marine Drive, Mumbai with pool, gym, and terrace."
+    },
+    "p27": {
+      "id": 27,
+      "title": "Modern Apartment in Koregaon Park",
+      "type": "Apartment",
+      "price": 20696841,
+      "location": "Koregaon Park, Pune",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 3000,
+      "amenities": ["Parking", "Gym", "Security"],
+      "images": [
+        "https://images.unsplash.com/photo-1581091215367-4827be43ca19?w=800",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800"
+      ],
+      "coordinates": { "lat": 18.5317, "lng": 73.8870 },
+      "agent": { "name": "Rohit Verma", "phone": "+91-9123456780", "email": "rohit@example.com" },
+      "description": "3BHK apartment in Koregaon Park, Pune with parking, gym, and security."
+    },
+    "p28": {
+      "id": 28,
+      "title": "Cozy Bungalow in Powai",
+      "type": "Villa",
+      "price": 17863487,
+      "location": "Powai, Mumbai",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 2800,
+      "amenities": ["Garden", "Parking"],
+      "images": [
+        "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/23/full/1632402776-0044.jpg?im=FitAndFill=(826,465)",
+        "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/23/full/1632402776-0044.jpg?im=FitAndFill=(826,465)"
+      ],
+      "coordinates": { "lat": 19.1190, "lng": 72.9095 },
+      "agent": { "name": "Sunita Kohli", "phone": "+91-9765432109", "email": "sunita@example.com" },
+      "description": "2BHK bungalow in Powai, Mumbai with garden and parking."
+    },
+    "p29": {
+      "id": 29,
+      "title": "Downtown Loft in BTM Layout",
+      "type": "House",
+      "price": 20863487,
+      "location": "BTM Layout, Bengaluru",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 3500,
+      "amenities": ["Terrace", "Security"],
+      "images": [
+        "https://housing-images.n7net.in/4f2250e8/e7b6a303febb7f2698aa239a25c487dc/v0/medium/ventara_residences-chambenahalli-bengaluru-amberstone_properties.jpeg",
+        "https://housing-images.n7net.in/4f2250e8/e7b6a303febb7f2698aa239a25c487dc/v0/medium/ventara_residences-chambenahalli-bengaluru-amberstone_properties.jpeg"
+      ],
+      "coordinates": { "lat": 12.9250, "lng": 77.5938 },
+      "agent": { "name": "Priya Sharma", "phone": "+91-9876543210", "email": "priya@example.com" },
+      "description": "3BHK house in BTM Layout, Bengaluru with terrace and security."
+    },
+    "p30": {
+      "id": 30,
+      "title": "Urban Studio in MG Road",
+      "type": "Office",
+      "price": 13024976,
+      "location": "MG Road, Pune",
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "area": 2000,
+      "amenities": ["Elevator", "Security"],
+      "images": [
+        "https://cdn.masaischool.com/masai-website/image154_ezgif_com_png_to_webp_converter_a0ea34c52d.webp",
+        "https://cdn.masaischool.com/masai-website/image154_ezgif_com_png_to_webp_converter_a0ea34c52d.webp"
+      ],
+      "coordinates": { "lat": 18.5196, "lng": 73.8553 },
+      "agent": { "name": "Rohit Verma", "phone": "+91-9123456780", "email": "rohit@example.com" },
+      "description": "0BHK office in MG Road, Pune with elevator and security."
+    }
+  }
+}

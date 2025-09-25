@@ -1,0 +1,846 @@
+[
+  
+  {
+    "id": 1,
+    "title": "Downtown Loft in Chanakyapuri",
+    "type": "House",
+    "price": 20863487,
+    "location": "Chanakyapuri, Delhi",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 4978,
+    "amenities": [
+      "Terrace",
+      "Clubhouse"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1572120360610-d971b9f3d1f7?w=800",
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800"
+    ],
+    "coordinates": {
+      "lat": 18.5035,
+      "lng": 76.0432
+    },
+    "agent": {
+      "name": "Vikram Singh",
+      "phone": "+91-9012345678",
+      "email": "vikram@example.com"
+    },
+    "description": "5BHK house in Chanakyapuri, Delhi with modern amenities and great surroundings."
+  },
+  {
+    "id": 2,
+    "title": "Cozy Bungalow in Chanakyapuri",
+    "type": "Villa",
+    "price": 22801375,
+    "location": "Chanakyapuri, Delhi",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "area": 3015,
+    "amenities": [
+      "Terrace",
+      "Clubhouse"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800",
+      "https://images.unsplash.com/photo-1560448204-a2fa11ce2347?w=800"
+    ],
+    "coordinates": {
+      "lat": 18.7645,
+      "lng": 72.8831
+    },
+    "agent": {
+      "name": "Priya Sharma",
+      "phone": "+91-9876543210",
+      "email": "priya@example.com"
+    },
+    "description": "5BHK villa in Chanakyapuri, Delhi with modern amenities and great surroundings."
+  },
+  {
+    "id": 3,
+    "title": "Penthouse Suite in Kothrud",
+    "type": "Apartment",
+    "price": 20696841,
+    "location": "Kothrud, Pune",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": 2968,
+    "amenities": [
+      "Garden",
+      "Car Garage"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1572120360610-d971b9f3d1f7?w=800",
+      "https://images.unsplash.com/photo-1581091215367-4827be43ca19?w=800"
+    ],
+    "coordinates": {
+      "lat": 24.6809,
+      "lng": 75.6364
+    },
+    "agent": {
+      "name": "Vikram Singh",
+      "phone": "+91-9012345678",
+      "email": "vikram@example.com"
+    },
+    "description": "3BHK apartment in Kothrud, Pune with modern amenities and great surroundings."
+  },
+  {
+    "id": 4,
+    "title": "Urban Studio in Salt Lake",
+    "type": "Office",
+    "price": 13024976,
+    "location": "Salt Lake, Kolkata",
+    "bedrooms": 0,
+    "bathrooms": 4,
+    "area": 2401,
+    "amenities": [
+      "Security",
+      "Elevator"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800",
+      "https://images.unsplash.com/photo-1581091215367-4827be43ca19?w=800"
+    ],
+    "coordinates": {
+      "lat": 24.8777,
+      "lng": 73.1637
+    },
+    "agent": {
+      "name": "Priya Sharma",
+      "phone": "+91-9876543210",
+      "email": "priya@example.com"
+    },
+    "description": "0BHK office in Salt Lake, Kolkata with modern amenities and great surroundings."
+  },
+  {
+    "id": 5,
+    "title": "Elegant Mansion in Calangute",
+    "type": "Villa",
+    "price": 25858643,
+    "location": "Calangute, Goa",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 1593,
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-a2fa11ce2347?w=800",
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800"
+    ],
+    "coordinates": {
+      "lat": 21.5758,
+      "lng": 72.9213
+    },
+    "agent": {
+      "name": "Priya Sharma",
+      "phone": "+91-9876543210",
+      "email": "priya@example.com"
+    },
+    "description": "4BHK villa in Calangute, Goa with modern amenities and great surroundings."
+  },
+  {
+    "id": 6,
+    "title": "Downtown Loft in Gachibowli",
+    "type": "House",
+    "price": 7362764,
+    "location": "Gachibowli, Hyderabad",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area": 3001,
+    "amenities": [
+      "Gym",
+      "Swimming Pool",
+      "Parking"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800",
+      "https://images.unsplash.com/photo-1560448204-a2fa11ce2347?w=800"
+    ],
+    "coordinates": {
+      "lat": 20.3947,
+      "lng": 73.9461
+    },
+    "agent": {
+      "name": "Sunita Kohli",
+      "phone": "+91-9765432109",
+      "email": "sunita@example.com"
+    },
+    "description": "1BHK house in Gachibowli, Hyderabad with modern amenities and great surroundings."
+  },
+  {
+    "id": 7,
+    "title": "Elegant Mansion in Salt Lake",
+    "type": "Villa",
+    "price": 5374389,
+    "location": "Salt Lake, Kolkata",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 2940,
+    "amenities": [
+      "Garden",
+      "Car Garage"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1581091215367-4827be43ca19?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800"
+    ],
+    "coordinates": {
+      "lat": 20.9466,
+      "lng": 72.9891
+    },
+    "agent": {
+      "name": "Sunita Kohli",
+      "phone": "+91-9765432109",
+      "email": "sunita@example.com"
+    },
+    "description": "1BHK villa in Salt Lake, Kolkata with modern amenities and great surroundings."
+  },
+  {
+    "id": 8,
+    "title": "Modern Apartment in Bandra West",
+    "type": "Villa",
+    "price": 23424572,
+    "location": "Bandra West, Mumbai",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "area": 4734,
+    "amenities": [
+      "Terrace",
+      "Clubhouse"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1581091215367-4827be43ca19?w=800",
+      "https://images.unsplash.com/photo-1572120360610-d971b9f3d1f7?w=800"
+    ],
+    "coordinates": {
+      "lat": 13.0786,
+      "lng": 74.2466
+    },
+    "agent": {
+      "name": "Anita Desai",
+      "phone": "+91-9988776655",
+      "email": "anita@example.com"
+    },
+    "description": "2BHK villa in Bandra West, Mumbai with modern amenities and great surroundings."
+  },
+  {
+    "id": 9,
+    "title": "Cozy Bungalow in Whitefield",
+    "type": "Office",
+    "price": 23933395,
+    "location": "Whitefield, Bengaluru",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "area": 1184,
+    "amenities": [
+      "Garden",
+      "Car Garage"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800"
+    ],
+    "coordinates": {
+      "lat": 14.4615,
+      "lng": 75.446
+    },
+    "agent": {
+      "name": "Anita Desai",
+      "phone": "+91-9988776655",
+      "email": "anita@example.com"
+    },
+    "description": "0BHK office in Whitefield, Bengaluru with modern amenities and great surroundings."
+  },
+  {
+    "id": 10,
+    "title": "Spacious Flat in Bandra West",
+    "type": "Villa",
+    "price": 24202106,
+    "location": "Bandra West, Mumbai",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 2268,
+    "amenities": [
+      "Terrace",
+      "Clubhouse"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1581091215367-4827be43ca19?w=800"
+    ],
+    "coordinates": {
+      "lat": 21.136,
+      "lng": 77.5137
+    },
+    "agent": {
+      "name": "Anita Desai",
+      "phone": "+91-9988776655",
+      "email": "anita@example.com"
+    },
+    "description": "5BHK villa in Bandra West, Mumbai with modern amenities and great surroundings."
+  },
+  {
+    "id": 11,
+    "title": "Modern Apartment in Kothrud",
+    "type": "House",
+    "price": 28381036,
+    "location": "Kothrud, Pune",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area": 3647,
+    "amenities": [
+      "Terrace",
+      "Clubhouse"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1572120360610-d971b9f3d1f7?w=800",
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800"
+    ],
+    "coordinates": {
+      "lat": 18.6714,
+      "lng": 74.073
+    },
+    "agent": {
+      "name": "Anita Desai",
+      "phone": "+91-9988776655",
+      "email": "anita@example.com"
+    },
+    "description": "1BHK house in Kothrud, Pune with modern amenities and great surroundings."
+  },
+  {
+    "id": 12,
+    "title": "Urban Studio in Chanakyapuri",
+    "type": "Office",
+    "price": 11147029,
+    "location": "Chanakyapuri, Delhi",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "area": 3369,
+    "amenities": [
+      "Garden",
+      "Car Garage"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1572120360610-d971b9f3d1f7?w=800",
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800"
+    ],
+    "coordinates": {
+      "lat": 15.1583,
+      "lng": 73.1216
+    },
+    "agent": {
+      "name": "Anita Desai",
+      "phone": "+91-9988776655",
+      "email": "anita@example.com"
+    },
+    "description": "0BHK office in Chanakyapuri, Delhi with modern amenities and great surroundings."
+  },
+  {
+    "id": 13,
+    "title": "Luxury Villa in Rajouri Garden",
+    "type": "House",
+    "price": 27862180,
+    "location": "Rajouri Garden, Delhi",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "area": 2656,
+    "amenities": [
+      "Garden",
+      "Car Garage"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800"
+    ],
+    "coordinates": {
+      "lat": 26.4805,
+      "lng": 73.4586
+    },
+    "agent": {
+      "name": "Sunita Kohli",
+      "phone": "+91-9765432109",
+      "email": "sunita@example.com"
+    },
+    "description": "1BHK house in Rajouri Garden, Delhi with modern amenities and great surroundings."
+  },
+  {
+    "id": 14,
+    "title": "Luxury Villa in Cyber City",
+    "type": "Apartment",
+    "price": 28315027,
+    "location": "Cyber City, Gurugram",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 2470,
+    "amenities": [
+      "Security",
+      "Elevator"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-a2fa11ce2347?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800"
+    ],
+    "coordinates": {
+      "lat": 13.515,
+      "lng": 77.3617
+    },
+    "agent": {
+      "name": "Anita Desai",
+      "phone": "+91-9988776655",
+      "email": "anita@example.com"
+    },
+    "description": "5BHK apartment in Cyber City, Gurugram with modern amenities and great surroundings."
+  },
+  {
+    "id": 15,
+    "title": "Downtown Loft in Kothrud",
+    "type": "Apartment",
+    "price": 18495229,
+    "location": "Kothrud, Pune",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area": 3335,
+    "amenities": [
+      "Terrace",
+      "Clubhouse"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-a2fa11ce2347?w=800",
+      "https://images.unsplash.com/photo-1581091215367-4827be43ca19?w=800"
+    ],
+    "coordinates": {
+      "lat": 17.4898,
+      "lng": 74.9068
+    },
+    "agent": {
+      "name": "Priya Sharma",
+      "phone": "+91-9876543210",
+      "email": "priya@example.com"
+    },
+    "description": "4BHK apartment in Kothrud, Pune with modern amenities and great surroundings."
+  },
+  {
+    "id": 16,
+    "title": "Beachside Condo in Rajouri Garden",
+    "type": "Apartment",
+    "price": 15162150,
+    "location": "Rajouri Garden, Delhi",
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "area": 2705,
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1581091215367-4827be43ca19?w=800"
+    ],
+    "coordinates": {
+      "lat": 17.9771,
+      "lng": 76.5018
+    },
+    "agent": {
+      "name": "Priya Sharma",
+      "phone": "+91-9876543210",
+      "email": "priya@example.com"
+    },
+    "description": "5BHK apartment in Rajouri Garden, Delhi with modern amenities and great surroundings."
+  },
+  {
+    "id": 17,
+    "title": "Penthouse Suite in Cyber City",
+    "type": "Office",
+    "price": 15371923,
+    "location": "Cyber City, Gurugram",
+    "bedrooms": 0,
+    "bathrooms": 4,
+    "area": 4384,
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-a2fa11ce2347?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800"
+    ],
+    "coordinates": {
+      "lat": 24.7338,
+      "lng": 76.9801
+    },
+    "agent": {
+      "name": "Rahul Verma",
+      "phone": "+91-9123456789",
+      "email": "rahul@example.com"
+    },
+    "description": "0BHK office in Cyber City, Gurugram with modern amenities and great surroundings."
+  },
+  {
+    "id": 18,
+    "title": "Modern Apartment in Kothrud",
+    "type": "Villa",
+    "price": 18365044,
+    "location": "Kothrud, Pune",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 4315,
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800",
+      "https://images.unsplash.com/photo-1581091215367-4827be43ca19?w=800"
+    ],
+    "coordinates": {
+      "lat": 19.4625,
+      "lng": 72.8833
+    },
+    "agent": {
+      "name": "Rahul Verma",
+      "phone": "+91-9123456789",
+      "email": "rahul@example.com"
+    },
+    "description": "4BHK villa in Kothrud, Pune with modern amenities and great surroundings."
+  },
+  {
+    "id": 19,
+    "title": "Beachside Condo in Bandra West",
+    "type": "House",
+    "price": 14769391,
+    "location": "Bandra West, Mumbai",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "area": 3127,
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-a2fa11ce2347?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800"
+    ],
+    "coordinates": {
+      "lat": 18.2671,
+      "lng": 74.5124
+    },
+    "agent": {
+      "name": "Priya Sharma",
+      "phone": "+91-9876543210",
+      "email": "priya@example.com"
+    },
+    "description": "1BHK house in Bandra West, Mumbai with modern amenities and great surroundings."
+  },
+  {
+    "id": 20,
+    "title": "Greenfield House in Rajouri Garden",
+    "type": "Villa",
+    "price": 29473016,
+    "location": "Rajouri Garden, Delhi",
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "area": 4838,
+    "amenities": [
+      "Terrace",
+      "Clubhouse"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1572120360610-d971b9f3d1f7?w=800",
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800"
+    ],
+    "coordinates": {
+      "lat": 18.9411,
+      "lng": 77.1834
+    },
+    "agent": {
+      "name": "Priya Sharma",
+      "phone": "+91-9876543210",
+      "email": "priya@example.com"
+    },
+    "description": "5BHK villa in Rajouri Garden, Delhi with modern amenities and great surroundings."
+  },
+  {
+    "id": 21,
+    "title": "Urban Studio in Whitefield",
+    "type": "Apartment",
+    "price": 17516689,
+    "location": "Whitefield, Bengaluru",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 2523,
+    "amenities": [
+      "Security",
+      "Elevator"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1581091215367-4827be43ca19?w=800",
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800"
+    ],
+    "coordinates": {
+      "lat": 26.7523,
+      "lng": 75.4621
+    },
+    "agent": {
+      "name": "Rahul Verma",
+      "phone": "+91-9123456789",
+      "email": "rahul@example.com"
+    },
+    "description": "4BHK apartment in Whitefield, Bengaluru with modern amenities and great surroundings."
+  },
+  {
+    "id": 22,
+    "title": "Penthouse Suite in Sector 50",
+    "type": "Villa",
+    "price": 21547095,
+    "location": "Sector 50, Noida",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area": 3983,
+    "amenities": [
+      "Terrace",
+      "Clubhouse"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800"
+    ],
+    "coordinates": {
+      "lat": 20.7501,
+      "lng": 73.162
+    },
+    "agent": {
+      "name": "Rahul Verma",
+      "phone": "+91-9123456789",
+      "email": "rahul@example.com"
+    },
+    "description": "1BHK villa in Sector 50, Noida with modern amenities and great surroundings."
+  },
+  {
+    "id": 23,
+    "title": "Elegant Mansion in Bandra West",
+    "type": "Villa",
+    "price": 8487308,
+    "location": "Bandra West, Mumbai",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": 800,
+    "amenities": [
+      "Gym",
+      "Swimming Pool",
+      "Parking"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1581091215367-4827be43ca19?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800"
+    ],
+    "coordinates": {
+      "lat": 15.1206,
+      "lng": 76.829
+    },
+    "agent": {
+      "name": "Rahul Verma",
+      "phone": "+91-9123456789",
+      "email": "rahul@example.com"
+    },
+    "description": "3BHK villa in Bandra West, Mumbai with modern amenities and great surroundings."
+  },
+  {
+    "id": 24,
+    "title": "Luxury Villa in Salt Lake",
+    "type": "House",
+    "price": 19286878,
+    "location": "Salt Lake, Kolkata",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "area": 2188,
+    "amenities": [
+      "Garden",
+      "Car Garage"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1572120360610-d971b9f3d1f7?w=800",
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800"
+    ],
+    "coordinates": {
+      "lat": 21.0263,
+      "lng": 76.4575
+    },
+    "agent": {
+      "name": "Sunita Kohli",
+      "phone": "+91-9765432109",
+      "email": "sunita@example.com"
+    },
+    "description": "1BHK house in Salt Lake, Kolkata with modern amenities and great surroundings."
+  },
+  {
+    "id": 25,
+    "title": "Penthouse Suite in Whitefield",
+    "type": "House",
+    "price": 23562705,
+    "location": "Whitefield, Bengaluru",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 4040,
+    "amenities": [
+      "Terrace",
+      "Clubhouse"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800"
+    ],
+    "coordinates": {
+      "lat": 23.8826,
+      "lng": 75.2221
+    },
+    "agent": {
+      "name": "Vikram Singh",
+      "phone": "+91-9012345678",
+      "email": "vikram@example.com"
+    },
+    "description": "5BHK house in Whitefield, Bengaluru with modern amenities and great surroundings."
+  },
+  {
+    "id": 26,
+    "title": "Luxury Villa in Cyber City",
+    "type": "Apartment",
+    "price": 10725376,
+    "location": "Cyber City, Gurugram",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 4557,
+    "amenities": [
+      "Security",
+      "Elevator"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1581091215367-4827be43ca19?w=800"
+    ],
+    "coordinates": {
+      "lat": 13.2555,
+      "lng": 74.7315
+    },
+    "agent": {
+      "name": "Anita Desai",
+      "phone": "+91-9988776655",
+      "email": "anita@example.com"
+    },
+    "description": "2BHK apartment in Cyber City, Gurugram with modern amenities and great surroundings."
+  },
+  {
+    "id": 27,
+    "title": "Downtown Loft in Salt Lake",
+    "type": "Villa",
+    "price": 10841809,
+    "location": "Salt Lake, Kolkata",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 4817,
+    "amenities": [
+      "Pool",
+      "Gym"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1581091215367-4827be43ca19?w=800",
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800"
+    ],
+    "coordinates": {
+      "lat": 17.8809,
+      "lng": 77.463
+    },
+    "agent": {
+      "name": "Anita Desai",
+      "phone": "+91-9988776655",
+      "email": "anita@example.com"
+    },
+    "description": "1BHK villa in Salt Lake, Kolkata with modern amenities and great surroundings."
+  },
+  {
+    "id": 28,
+    "title": "Cozy Bungalow in Cyber City",
+    "type": "House",
+    "price": 18760634,
+    "location": "Cyber City, Gurugram",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "area": 2192,
+    "amenities": [
+      "Gym",
+      "Swimming Pool",
+      "Parking"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800",
+      "https://images.unsplash.com/photo-1560448204-a2fa11ce2347?w=800"
+    ],
+    "coordinates": {
+      "lat": 20.2651,
+      "lng": 76.9906
+    },
+    "agent": {
+      "name": "Priya Sharma",
+      "phone": "+91-9876543210",
+      "email": "priya@example.com"
+    },
+    "description": "5BHK house in Cyber City, Gurugram with modern amenities and great surroundings."
+  },
+  {
+    "id": 29,
+    "title": "Downtown Loft in Kothrud",
+    "type": "Villa",
+    "price": 26799055,
+    "location": "Kothrud, Pune",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "area": 1501,
+    "amenities": [
+      "Terrace",
+      "Clubhouse"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1572120360610-d971b9f3d1f7?w=800",
+      "https://images.unsplash.com/photo-1598928506310-0bde37f4adab?w=800"
+    ],
+    "coordinates": {
+      "lat": 27.2227,
+      "lng": 74.137
+    },
+    "agent": {
+      "name": "Sunita Kohli",
+      "phone": "+91-9765432109",
+      "email": "sunita@example.com"
+    },
+    "description": "3BHK villa in Kothrud, Pune with modern amenities and great surroundings."
+  },
+  {
+    "id": 30,
+    "title": "Modern Apartment in Rajouri Garden",
+    "type": "Villa",
+    "price": 20237168,
+    "location": "Rajouri Garden, Delhi",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "area": 4183,
+    "amenities": [
+      "Garden",
+      "Car Garage"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-a2fa11ce2347?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800"
+    ],
+    "coordinates": {
+      "lat": 23.8284,
+      "lng": 76.6222
+    },
+    "agent": {
+      "name": "Anita Desai",
+      "phone": "+91-9988776655",
+      "email": "anita@example.com"
+    },
+    "description": "2BHK villa in Rajouri Garden, Delhi with modern amenities and great surroundings."
+  }
+]
